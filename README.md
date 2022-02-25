@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Oleg-Zh
-- 👀 I’m interested in programming, process optimization through IT technologies
-- 🌱 I’m currently learning InSAR processing
-- 📫 How to reach me - zhmylev@yandex.ru
+## Скрипты, которые я использовал при изучении способов постороения и анализа интерферограмм.
+- 
 
 <!---
 Oleg-Zh/Oleg-Zh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
