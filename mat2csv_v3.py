@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import sys
 import pathlib
 from scipy.io import loadmat
